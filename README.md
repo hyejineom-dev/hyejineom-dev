@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=200&text=My%20tech%20stack)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=200&text=%20)
 
 ### Language
 ![java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
